@@ -1,0 +1,6 @@
+projectKey=sispenakan
+serverUrl=http://localhost:9099
+serverVersion=10.3.0.82913
+dashboardUrl=http://localhost:9099/dashboard?id=sispenakan
+ceTaskId=AYyhKqZex_DS8pn2zUH2
+ceTaskUrl=http://localhost:9099/api/ce/task?id=AYyhKqZex_DS8pn2zUH2
